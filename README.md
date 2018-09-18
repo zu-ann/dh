@@ -1,2 +1,2 @@
 # DH
-Repository with materials for Digital Humanities School
+Repository with materials on Digital Humanities
